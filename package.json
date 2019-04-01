@@ -1,0 +1,15 @@
+{
+  "name": "xml-builder",
+  "version": "1.0.0",
+  "description": "A quick and easy CSV to XML Builder that can now build our necessary XML Sitemaps",
+  "main": "csv-sitemap-builder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "xml-formatter": "^1.1.0"
+  }
+}
